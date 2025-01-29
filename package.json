@@ -1,0 +1,11 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Sample json server",
+  "main": "index.js",
+  "author": "lawlesx",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
